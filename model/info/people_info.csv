@@ -1,0 +1,20 @@
+id_card,name,type
+Unknown,Stranger,
+201,Anna,employee
+202,阿姨,employee
+203,小胖,employee
+204,主持人,employee
+205,大妈,employee
+206,蓝衣大妈,employee
+301,奶奶,old_people
+302,女书生,old_people
+303,慈祥,old_people
+304,眼镜,old_people
+305,笑容,old_people
+306,黑框,old_people
+307,爷爷,old_people
+308,OLD Jack,old_people
+100,郭峰,volunteer
+101,方飞彬,volunteer
+102,VLO Tom,volunteer
+123_1,徐子涵,old_people
